@@ -21,3 +21,5 @@
             "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"],
             "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/uncanny-learndash-toolkit"]
         }
+      }
+}
