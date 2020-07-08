@@ -1,0 +1,6 @@
+{
+    "name": "cmelight/composertest",
+    "description": "this code will install packages",
+    "type": "library",
+    "require": {}
+}
