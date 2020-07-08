@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "wpackagist-plugin/popup-maker":"dev-trunk",
+        "wpackagist-plugin/popup-maker":"dev-trunk"
     },
     "autoload": {
         "psr-0": {
