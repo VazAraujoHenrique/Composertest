@@ -17,7 +17,7 @@
     },
       "extra": {
         "installer-paths": {
-            "home/public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"]
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"]
         }
     }
 }
