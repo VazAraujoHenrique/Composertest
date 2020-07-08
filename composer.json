@@ -20,4 +20,24 @@
             "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"]
         }
     }
-}
+},
+    "name": "cmelight/site",
+    "description": "update",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/uncanny-learndash-toolkit":"3.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "cmelight": "src/"
+        }
+    },
+      "extra": {
+        "installer-paths": {
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/uncanny-learndash-toolkit"]
+        }
