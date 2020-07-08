@@ -14,5 +14,11 @@
         "psr-0": {
             "cmelight": "src/"
         }
+    },
+      "extra": {
+        "installer-paths": {
+            "home/public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"]
+        }
     }
+}
 }
