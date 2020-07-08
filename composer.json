@@ -20,7 +20,8 @@
             "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker"]
         }
     }
-},
+}
+{
     "name": "cmelight/site",
     "description": "update",
     "repositories":[
