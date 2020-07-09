@@ -13,12 +13,12 @@
         {
       "type": "package",
       "package": {
-        "name": "uncanny-automator",
-        "version": "2.5",
+        "name": "tin-canny-learndash-reporting",
+        "version": "3.4.2",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/VazAraujoHenrique/Composertest/uncanny-automator"
+          "url": "https://github.com/VazAraujoHenrique/Composertest/tin-canny-learndash-reporting.zip"
         }
       }
       }
@@ -26,7 +26,7 @@
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
         "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
-        "wordpress-plugin/uncanny-automator":"2.5"
+        "wordpress-plugin/tin-canny-learndash-reporting.zip":"3.4.2"
     },
     "autoload": {
         "psr-0": {
