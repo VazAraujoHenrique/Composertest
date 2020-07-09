@@ -5,11 +5,24 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
-        }   
+        },
+        {
+      "type": "package",
+      "package": {
+        "name": "uncanny-automator",
+        "version": "3.5.1",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "../Plugins/uncanny-automator.2.5.zip"
+        }
+      }
+      }
     ],
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
-        "wpackagist-plugin/uncanny-learndash-toolkit":"3.*"
+        "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
+        "uncanny-automator":"*"
     },
     "autoload": {
         "psr-0": {
