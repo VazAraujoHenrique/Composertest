@@ -1,6 +1,10 @@
 {
     "name": "cmelight/site",
     "description": "test",
+    "config": {
+    "preferred-install": "dist",
+    "cache-files-ttl":0
+  },
     "repositories":[
         {
             "type":"composer",
@@ -14,7 +18,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "uncanny-automator.zip"
+          "url": "https://github.com/VazAraujoHenrique/Composertest/uncanny-automator.zip"
         }
       }
       }
