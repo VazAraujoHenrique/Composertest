@@ -26,7 +26,7 @@
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
         "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
-        "wordpress-plugin/tin-canny-learndash-reporting.zip":"3.4.2"
+        "tin-canny-learndash-reporting.zip":"3.4.2"
     },
     "autoload": {
         "psr-0": {
@@ -35,7 +35,7 @@
     },
       "extra": {
         "installer-paths": {
-            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit","wordpress-plugin/uncanny-automator"]
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit","tin-canny-learndash-reporting"]
         }
       }
 }
