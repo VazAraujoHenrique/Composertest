@@ -18,7 +18,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/VazAraujoHenrique/Composertest/tin-canny-learndash-reporting.zip"
+          "url": "https://github.com/VazAraujoHenrique/Composertest.git/Plugins/tin-canny-learndash-reporting.zip"
         }
       }
       }
