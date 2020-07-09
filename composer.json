@@ -10,7 +10,7 @@
       "type": "package",
       "package": {
         "name": "uncanny-automator",
-        "version": "*",
+        "version": "2.5",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -22,7 +22,7 @@
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
         "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
-        "wordpress-plugin/uncanny-automator":"*"
+        "wordpress-plugin/uncanny-automator":"2.5"
     },
     "autoload": {
         "psr-0": {
