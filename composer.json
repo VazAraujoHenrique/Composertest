@@ -9,7 +9,7 @@
         {
       "type": "package",
       "package": {
-        "name": "uncanny-automator",
+        "name": "uncanny-automator.2.5",
         "version": "2.5",
         "type": "wordpress-plugin",
         "dist": {
