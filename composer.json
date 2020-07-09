@@ -10,11 +10,11 @@
       "type": "package",
       "package": {
         "name": "uncanny-automator",
-        "version": "3.5.1",
+        "version": "2.*",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "../Plugins/uncanny-automator.2.5.zip"
+          "url": "https://github.com/VazAraujoHenrique/Composertest.git"
         }
       }
       }
