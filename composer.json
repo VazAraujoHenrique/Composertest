@@ -9,12 +9,12 @@
         {
       "type": "package",
       "package": {
-        "name": "uncanny-automator.2.5",
-        "version": "2.5",
+        "name": "uncanny-automator",
+        "version": "*",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/VazAraujoHenrique/Composertest.git/uncanny-automator.2.5.zip"
+          "url": "https://github.com/VazAraujoHenrique/Composertest.git/uncanny-automator.zip"
         }
       }
       }
