@@ -35,7 +35,7 @@
     },
       "extra": {
         "installer-paths": {
-            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit","tin-canny-learndash-reporting"]
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit"]
         }
       }
 }
