@@ -5,11 +5,16 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
-        }
+        },
+        {
+      "type": "zip",
+      "url": "../Plugins/uncanny-automator.2.5.zip"
+      }
     ],
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
-        "wpackagist-plugin/uncanny-learndash-toolkit":"3.*"
+        "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
+        "wordpress-plugin/uncanny-automator.2.5.zip": "*"
     },
     "autoload": {
         "psr-0": {
@@ -18,7 +23,7 @@
     },
       "extra": {
         "installer-paths": {
-            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit"]
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit","wordpress-plugin/uncanny-automator.2.5.zip"]
         }
       }
 }
