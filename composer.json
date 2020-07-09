@@ -14,7 +14,7 @@
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/VazAraujoHenrique/Composertest.git/uncanny-automator.zip"
+          "url": "uncanny-automator.zip"
         }
       }
       }
