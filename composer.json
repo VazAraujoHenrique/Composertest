@@ -26,7 +26,7 @@
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
         "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
-        "tin-canny-learndash-reporting.zip":"3.4.2"
+        "tin-canny-learndash-reporting":"3.4.2"
     },
     "autoload": {
         "psr-0": {
