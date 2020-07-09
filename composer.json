@@ -22,7 +22,7 @@
     "require": {
         "wpackagist-plugin/popup-maker":"dev-trunk",
         "wpackagist-plugin/uncanny-learndash-toolkit":"3.*",
-        "uncanny-automator":"*"
+        "wordpress-plugin/uncanny-automator":"2.*"
     },
     "autoload": {
         "psr-0": {
@@ -31,7 +31,7 @@
     },
       "extra": {
         "installer-paths": {
-            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit"]
+            "../public_html/wp-content/plugins/{$name}": ["wpackagist-plugin/popup-maker","wpackagist-plugin/uncanny-learndash-toolkit","wordpress-plugin/uncanny-automator"]
         }
       }
 }
