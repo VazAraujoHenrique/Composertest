@@ -14,7 +14,7 @@
       "type": "package",
       "package": {
         "name": "uncanny-automator",
-        "version": "2.5",
+        "version": "",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
